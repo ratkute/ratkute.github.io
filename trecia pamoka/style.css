@@ -1,0 +1,53 @@
+a:hover{
+    color: pink;
+  } 
+  a{
+ 
+    color: hotpink;
+  }
+  img{
+    border-radius: 0%;
+    margin-left: auto;
+    margin-right: auto;
+  width: 3cm;
+  height:2cm;
+ 
+   
+    
+}
+img:hover{
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.ypatingasis{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+      height: 15cm;
+}
+.antraste{
+    font-size: 35pt;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: palevioletred;
+    text-align: center;
+}
+body{
+    background-color: rgb(228, 249, 252);
+}
+.langeliai{
+    border: solid 2px pink;
+    border-collapse: collapse;
+    margin:auto;
+    height:2cm;
+    width: 3cm;
+}
+#duomenys
+{
+    color:palevioletred;
+    text-align: right;
+    font-size: 0.5cm;
+
+}
