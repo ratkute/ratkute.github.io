@@ -1,0 +1,97 @@
+body{
+	background-color:#e6e2d3;
+}
+
+div.antraste{
+  background-color: #dac292;
+  height: 80px;
+  text-align: center;
+  padding: 30px;
+  font-size: 30px;
+  color:#4f3222;
+  font-weight: bold;
+}
+div.visi_punktai{
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 50px;
+   background-color: #c4b7a6; 
+	
+}
+ul.fix{
+  padding: 0px;
+  margin: 0px;
+}
+li.punktai{
+  font-size: 20px;
+  text-transform: uppercase;
+  float: left;
+  list-style: none;
+  text-align: center;
+  padding:15px 20px;
+  margin:0px;
+}
+.nuorodos{
+	text-decoration: none;
+	font-size: 20px;
+  color:#4f3222;
+
+}
+.pagr
+{
+    margin: auto; 
+    padding: 10px;
+    margin-top: 5px;
+    background-color: #c4b7a6; 
+    width: 600px;
+    height: 210px;
+}
+
+.article_foto
+{
+    display:block;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.article_antr
+{
+    display:block;
+    float: left;
+    background-color: #dac292;
+    width: 380px;
+    height: 75px;
+	color:#4f3222;
+	font-size: 20px;
+	font-weight: bold;
+	
+	
+	
+}
+.article_tekstas
+{
+    display:block;
+    float: left;
+    background-color: #fff2df;
+    width: 380px;
+    height: 125px;
+	color: #674d3c;
+}
+img.nuotraukos{
+  float: left;
+  height: 200px;
+  width: 200px;
+}
+.nuotrauka{
+	 margin: auto; 
+	height: 400px;
+	width: 400px;
+}
+.tekstas{
+	color:#4f3222;
+	font-size: 25px;
+	font-weight: bold;
+	
+}
